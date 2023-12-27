@@ -1,0 +1,3 @@
+slide:not(.current) .plotly.html-widget{
+display: none;
+}
